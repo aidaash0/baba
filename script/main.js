@@ -271,4 +271,3 @@ const animationTimeline = () => {
         tl.restart();
     });
 }
-
