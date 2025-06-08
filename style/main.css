@@ -5,8 +5,6 @@ html {
   font-family: 'javan';
   src: url('fonts\Javanweb.woff') format('woff'),
        url('fonts\Javanweb.woff2') format('woff2');
-  font-family: 'on';
-   src: url('fonts\OnMedium.woff') format('woff'),
 
 }
 body {
@@ -36,7 +34,6 @@ body {
 }
 
 .one {
-  font-family: 'on';
   font-size: 5.5rem;
 }
 
@@ -51,7 +48,6 @@ body {
 }
 
 .four .text-box {
-  font-family: 'on';
   font-weight: 600;
   border: 3px solid #aaa;
   border-radius: 5px;
@@ -78,13 +74,12 @@ body {
   border-radius: 3px;
   bottom: -50px;
   color: #fff;
-  padding: .5rem 1rem;
+  padding: 0.5rem 1rem;
   position: absolute;
   right: 5px;
 }
 
 .five p {
-  font-family: 'on';
   font-weight: 500;
   font-size: 3rem;
   left: 0;
@@ -234,6 +229,7 @@ body {
 }
 
 #replay {
+  color: #2773ff;
   cursor: pointer;
   z-index: 3;
 }
@@ -297,7 +293,6 @@ body {
   }
 
   .nine p {
-    font-family: 'on';
     font-size: 1.5rem;
     font-weight: 300;
   }
