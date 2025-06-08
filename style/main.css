@@ -16,7 +16,6 @@ body {
 
 .song {
   visibility: hidden;
-  direction: ltr;
 }
 
 .container {
